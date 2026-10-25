@@ -1,0 +1,11 @@
+{
+  "name": "queuekit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local work queue for items by priority, due date, and status.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
